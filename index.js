@@ -29,6 +29,7 @@ function findTheCheese (foods) {
     if(foods[i] === 'cheddar'){
       return foods[i]
     }
+    return 'no cheese!'
   }
-      return 'no cheese!'
+      
 }
